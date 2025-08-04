@@ -85,7 +85,7 @@ python main.py
 - Selenium WebDriver for browser automation
 - Python Pillow for image processing
 
-## 📅 Planned Improvements
+## 📅 Possible Improvements
 
 - [ ] Schedule daily runs with `cron` or `Task Scheduler`
 - [ ] Store post history in SQLite or JSON
